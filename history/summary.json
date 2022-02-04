@@ -1,22 +1,22 @@
 [
   {
     "name": "iSchedule API",
-    "url": "https://ischedule.vincendev.com/api",
+    "url": "https://ischedule.vincendev.com",
     "icon": "https://favicons.githubusercontent.com/ischedule.vincendev.com",
     "slug": "i-schedule-api",
-    "status": "down",
-    "uptime": "16.97%",
-    "uptimeDay": "16.97%",
-    "uptimeWeek": "16.97%",
-    "uptimeMonth": "16.97%",
-    "uptimeYear": "16.97%",
-    "time": 644,
-    "timeDay": 644,
-    "timeWeek": 644,
-    "timeMonth": 644,
-    "timeYear": 644,
+    "status": "up",
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
+    "time": 648,
+    "timeDay": 648,
+    "timeWeek": 648,
+    "timeMonth": 648,
+    "timeYear": 648,
     "dailyMinutesDown": {
-      "2022-02-04": 0
+      "2022-02-04": 27
     }
   }
 ]
