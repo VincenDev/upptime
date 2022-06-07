@@ -4,17 +4,17 @@
     "url": "https://ischedule.vincendev.com/api/status",
     "icon": "https://favicons.githubusercontent.com/ischedule.vincendev.com",
     "slug": "i-schedule-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 620,
-    "timeDay": 277,
-    "timeWeek": 275,
-    "timeMonth": 308,
-    "timeYear": 620,
+    "time": 619,
+    "timeDay": 336,
+    "timeWeek": 295,
+    "timeMonth": 312,
+    "timeYear": 619,
     "dailyMinutesDown": {}
   }
 ]
