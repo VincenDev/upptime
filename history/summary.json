@@ -2,7 +2,7 @@
   {
     "name": "iSchedule API",
     "url": "https://ischedule.vincendev.com/api/status",
-    "icon": "https://favicons.githubusercontent.com/ischedule.vincendev.com",
+    "icon": "https://icons.duckduckgo.com/ip3/ischedule.vincendev.com.ico",
     "slug": "i-schedule-api",
     "status": "down",
     "uptime": "100.00%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 498,
-    "timeDay": 202,
-    "timeWeek": 351,
-    "timeMonth": 335,
+    "timeDay": 462,
+    "timeWeek": 355,
+    "timeMonth": 339,
     "timeYear": 498,
     "dailyMinutesDown": {}
   }
